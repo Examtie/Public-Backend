@@ -1,5 +1,6 @@
 # Examtie Backend system
-## for NSC project only 
+
+Submission for the 27ᵗʰ National Software Contest (NSC)
 
 ## License
 
