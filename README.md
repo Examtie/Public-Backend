@@ -1,5 +1,5 @@
 # Examtie Backend system
-## for Nsc project only 
+## for NSC project only 
 
 ## License
 
