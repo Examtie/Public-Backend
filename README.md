@@ -10,4 +10,4 @@ This repository is **not licensed for use, distribution, or modification**.
 - ❌ Modifications are **not allowed**
 - ✅ This repository is public for viewing purposes only
 
-All rights reserved © Examtie, Regenxy 2025
+All rights reserved © Examtie, Regenxy, Bread 2025
